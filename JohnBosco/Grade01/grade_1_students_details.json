@@ -1,0 +1,47 @@
+[
+    {
+        "Id": "94750013447",
+        "FullName": "Santhuru Athishan",
+        "Dob": "2017-10-28",
+        "AcademicYear": "2023",
+        "Address": "16/2, oddcu lane , jaffna",
+        "FatherFirstName": "Sivapalan",
+        "FatherLastName": "santhuru",
+        "FatherNIC": "872534113v",
+        "FatherContactNo": "773668967",
+        "MotherFName": "Thayana",
+        "MotherLName": "Santhuru",
+        "MotherNIC": "877812375v",
+        "MotherContactNo": "772566745"
+    },
+    {
+        "Id": "94750013448",
+        "FullName": "Sivasothi Keerthikan",
+        "Dob": "2017-03-24",
+        "AcademicYear": "2023",
+        "Address": "no 46/1, Ambalavanan road Athiyady , jaffna",
+        "FatherFirstName": "Nadaraja",
+        "FatherLastName": "Sivasothi",
+        "FatherNIC": "763221288v",
+        "FatherContactNo": "778001387",
+        "MotherFName": "Jeyathevi",
+        "MotherLName": "Sivasothi",
+        "MotherNIC": "197753801930",
+        "MotherContactNo": "766082918"
+    },
+    {
+        "Id": "94750013449",
+        "FullName": "Ayavan Avaneesh",
+        "Dob": "2017-05-22",
+        "AcademicYear": "2023",
+        "Address": "72/21 Panikkar Lane Thirunelvely",
+        "FatherFirstName": "Thiruchelvam",
+        "FatherLastName": "Ayavan",
+        "FatherNIC": "",
+        "FatherContactNo": "772487778",
+        "MotherFName": "Jeyamala",
+        "MotherLName": "Ayavan",
+        "MotherNIC": "866772606v",
+        "MotherContactNo": "773617643"
+    }
+]
