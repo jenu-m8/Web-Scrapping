@@ -1,0 +1,3682 @@
+[
+    {
+        "title": "Sale",
+        "price": "$455,000.00",
+        "address": "764 14e Avenue",
+        "location": "Lachine (Montr\u00e9al)",
+        "centrish_number": "11638161",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$639,900.00",
+        "address": "260 Rue Dub\u00e9",
+        "location": "Ch\u00e2teauguay",
+        "centrish_number": "19242513",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$2,350,000.00",
+        "address": "51 Av. Julien",
+        "location": "Salaberry-de-Valleyfield",
+        "centrish_number": "18384861",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$725,000.00",
+        "address": "1300 Rue David-Page",
+        "location": "Saint-Jean-sur-Richelieu",
+        "centrish_number": "19993884",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$2,500.00",
+        "address": "1500 Boul. Ren\u00e9-L\u00e9vesque O. #2615",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "16499931",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$1,600.00",
+        "address": "200 Boul. Marcel-Laurin #603",
+        "location": "Saint-Laurent (Montr\u00e9al)",
+        "centrish_number": "24307033",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$1,700.00",
+        "address": "320 Rue Sylvio-Mantha #002",
+        "location": "Vaudreuil-Dorion",
+        "centrish_number": "27885993",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$288,000.00",
+        "address": "7000 Rue Allard #673",
+        "location": "LaSalle (Montr\u00e9al)",
+        "centrish_number": "28340678",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$459,000.00",
+        "address": "1185 Rue Charlevoix #102",
+        "location": "Le Sud-Ouest (Montr\u00e9al)",
+        "centrish_number": "12448844",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$1,400.00 + tax",
+        "address": "273 Ch. du Bord-du-Lac-Lakeshore #C",
+        "location": "Pointe-Claire",
+        "centrish_number": "22776697",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$1,495,000.00",
+        "address": "1561 Boul. Desmarchais",
+        "location": "Le Sud-Ouest (Montr\u00e9al)",
+        "centrish_number": "25186866",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$439,000.00",
+        "address": "1188 Av. Union #1208",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "23955483",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$1,750.00",
+        "address": "4656 Rue De Br\u00e9beuf",
+        "location": "Le Plateau-Mont-Royal (Montr\u00e9al)",
+        "centrish_number": "19651509",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$2,175.00",
+        "address": "1188 Rue St-Antoine O. #3509",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "17544853",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$1,250.00",
+        "address": "8398 12e Avenue",
+        "location": "Villeray/Saint-Michel/Parc-Extension (Montr\u00e9al)",
+        "centrish_number": "16262416",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$3,000.00",
+        "address": "3635 Av. Jean-B\u00e9raud #201",
+        "location": "Chomedey (Laval)",
+        "centrish_number": "17706691",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$5,000.00",
+        "address": "1834 Rue des Cassandres",
+        "location": "Le Vieux-Longueuil (Longueuil)",
+        "centrish_number": "13918229",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$1,695.00",
+        "address": "3388 Rue de Rushbrooke",
+        "location": "Verdun/\u00cele-des-Soeurs (Montr\u00e9al)",
+        "centrish_number": "14560119",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$1,065,000.00",
+        "address": "66 Rue Windermere",
+        "location": "Dollard-Des Ormeaux",
+        "centrish_number": "21892307",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$385,000.00",
+        "address": "5600 Rue Briand #619",
+        "location": "Le Sud-Ouest (Montr\u00e9al)",
+        "centrish_number": "10393220",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$415,000.00",
+        "address": "1414 Rue Chomedey #427",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "14159975",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$2,500.00",
+        "address": "3150 Rue Marlequin",
+        "location": "Brossard",
+        "centrish_number": "16167379",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$429,000.00",
+        "address": "205 Av. Dorval #403",
+        "location": "Dorval",
+        "centrish_number": "24487129",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$2,200.00",
+        "address": "4500 Ch. de la C\u00f4te-des-Neiges #402",
+        "location": "C\u00f4te-des-Neiges/Notre-Dame-de-Gr\u00e2ce (Montr\u00e9al)",
+        "centrish_number": "10548494",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$1,585,000.00",
+        "address": "1423 Rue Atateken",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "19310867",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$522,500.00",
+        "address": "1690 Ch. Island",
+        "location": "Ormstown",
+        "centrish_number": "20102224",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$1,750.00",
+        "address": "1900 Rue Suzanne-Coallier #513",
+        "location": "Saint-Laurent (Montr\u00e9al)",
+        "centrish_number": "11057453",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$1,599.00",
+        "address": "7227 Boul. Newman #1214",
+        "location": "LaSalle (Montr\u00e9al)",
+        "centrish_number": "27763372",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$2,150,000.00",
+        "address": "37 Rue Harrow",
+        "location": "Hampstead",
+        "centrish_number": "10869444",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$549,000.00",
+        "address": "3695 Av. Jean-B\u00e9raud #401",
+        "location": "Chomedey (Laval)",
+        "centrish_number": "27430178",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$479,000.00",
+        "address": "122 Rue des Ruisseaux",
+        "location": "L'\u00cele-Perrot",
+        "centrish_number": "16036922",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$6,995.00",
+        "address": "1300 Boul. Ren\u00e9-L\u00e9vesque O. #2803",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "12336474",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$749,000.00",
+        "address": "4091 Rue St\u00e9phanie",
+        "location": "Fabreville (Laval)",
+        "centrish_number": "22561731",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$3,675.00",
+        "address": "1548 Rue des Bassins #321",
+        "location": "Le Sud-Ouest (Montr\u00e9al)",
+        "centrish_number": "16046580",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$460,000.00",
+        "address": "7020 Rue Allard #341",
+        "location": "LaSalle (Montr\u00e9al)",
+        "centrish_number": "27213581",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$425,000.00",
+        "address": "8520 Rue Raymond-Pelletier #601",
+        "location": "Ahuntsic-Cartierville (Montr\u00e9al)",
+        "centrish_number": "12670722",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$2,250.00",
+        "address": "1500 Boul. Ren\u00e9-L\u00e9vesque O. #1407",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "15981958",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$1,700.00",
+        "address": "3855 Boul. de Chenonceau #905",
+        "location": "Chomedey (Laval)",
+        "centrish_number": "19569443",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$2,050.00",
+        "address": "405 Rue de la Concorde #905",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "22811725",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$1,700.00",
+        "address": "2063 Rue Maurice-LeBel",
+        "location": "Ahuntsic-Cartierville (Montr\u00e9al)",
+        "centrish_number": "16772804",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$2,950.00",
+        "address": "157 Rue Roger-Pilon",
+        "location": "Dollard-Des Ormeaux",
+        "centrish_number": "9006766",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$718,000.00",
+        "address": "17 Place du Soleil #101",
+        "location": "Verdun/\u00cele-des-Soeurs (Montr\u00e9al)",
+        "centrish_number": "20009183",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$450,000.00 + tax",
+        "address": "3616 Boul. St-Laurent",
+        "location": "Le Plateau-Mont-Royal (Montr\u00e9al)",
+        "centrish_number": "23796658",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$529,000.00",
+        "address": "1170 Rue Montcalm #107",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "12436088",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$2,295,000.00",
+        "address": "5631 Av. Greenwood",
+        "location": "C\u00f4te-Saint-Luc",
+        "centrish_number": "26423940",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$899,000.00",
+        "address": "1188 Rue St-Antoine O. #3204",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "11444950",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$774,000.00",
+        "address": "771 Rue Guy",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "28450927",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$699,500.00",
+        "address": "470 Av. George-V",
+        "location": "Lachine (Montr\u00e9al)",
+        "centrish_number": "15588212",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$2,900.00",
+        "address": "3940 Ch. de la C\u00f4te-des-Neiges #B34",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "24556949",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$699,000.00",
+        "address": "9865 Av. Larose",
+        "location": "Ahuntsic-Cartierville (Montr\u00e9al)",
+        "centrish_number": "27445847",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$449,000.00",
+        "address": "3600 Rue Elsa-Triolet",
+        "location": "Chomedey (Laval)",
+        "centrish_number": "28858314",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$2,400.00",
+        "address": "1310 Boul. Ren\u00e9-L\u00e9vesque O. #2503",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "23201327",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$2,900.00",
+        "address": "7376 Boul. Henri-Bourassa O.",
+        "location": "Saint-Laurent (Montr\u00e9al)",
+        "centrish_number": "17870735",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$4,900.00",
+        "address": "1030 Rue de la Montagne #3610",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "15015892",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$549,000.00",
+        "address": "265Z Rue de Cherbourg",
+        "location": "Candiac",
+        "centrish_number": "15934829",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$899,900.00",
+        "address": "765Z Rue Egan",
+        "location": "Verdun/\u00cele-des-Soeurs (Montr\u00e9al)",
+        "centrish_number": "26891586",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$749,000.00",
+        "address": "1501 Av. du Docteur-Penfield #4",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "24555405",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$299,000.00",
+        "address": "5700 Boul. Cavendish #808",
+        "location": "C\u00f4te-Saint-Luc",
+        "centrish_number": "17438476",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$849,000.00",
+        "address": "1310 Rue de la Montagne #1301",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "20046295",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$4,100.00",
+        "address": "1300 Boul. Ren\u00e9-L\u00e9vesque O. #1904",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "27072029",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$9,900.00",
+        "address": "3225 Av. Cedar",
+        "location": "Westmount",
+        "centrish_number": "18233993",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$899,900.00",
+        "address": "765 Rue Egan",
+        "location": "Verdun/\u00cele-des-Soeurs (Montr\u00e9al)",
+        "centrish_number": "27950171",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$799,000.00",
+        "address": "299 Rue de la Rotonde #2408",
+        "location": "Verdun/\u00cele-des-Soeurs (Montr\u00e9al)",
+        "centrish_number": "9080272",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$499,000.00",
+        "address": "2201 Rue Curatteau",
+        "location": "Mercier/Hochelaga-Maisonneuve (Montr\u00e9al)",
+        "centrish_number": "25581495",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$428,000.00",
+        "address": "98 Rue Charlotte #359",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "19901025",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$2,100.00",
+        "address": "1155 Rue de la Montagne #411",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "23697429",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$675,000.00",
+        "address": "4310 Rue St-Jacques #401",
+        "location": "Le Sud-Ouest (Montr\u00e9al)",
+        "centrish_number": "23722649",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$389,900.00",
+        "address": "46 Rue Rimbaud #302",
+        "location": "Saint-Constant",
+        "centrish_number": "23956952",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$2,495.00",
+        "address": "266 Av. Lansdowne",
+        "location": "Westmount",
+        "centrish_number": "16755510",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$349,000.00",
+        "address": "3 Rue Madore",
+        "location": "Notre-Dame-de-l'\u00cele-Perrot",
+        "centrish_number": "21953108",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$750,000.00",
+        "address": "1051 Rue de la Montagne #1404",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "23585025",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$1,675.00",
+        "address": "290 Rue Jean-Claude-Tremblay #402",
+        "location": "Vaudreuil-Dorion",
+        "centrish_number": "13177444",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$2,000.00",
+        "address": "1155 Rue de la Montagne #1603",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "18908935",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$3,900.00",
+        "address": "1051 Rue de la Montagne #807",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "20774181",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$600,000.00",
+        "address": "1300 Boul. Ren\u00e9-L\u00e9vesque O. #3807",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "19279443",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$678,000.00",
+        "address": "8913 2e Avenue",
+        "location": "Villeray/Saint-Michel/Parc-Extension (Montr\u00e9al)",
+        "centrish_number": "20392766",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$4,069,999.00",
+        "address": "3611 Boul. St-Laurent",
+        "location": "Le Plateau-Mont-Royal (Montr\u00e9al)",
+        "centrish_number": "12868963",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$1,960.00",
+        "address": "12836 Rue Notre-Dame E. #3",
+        "location": "Rivi\u00e8re-des-Prairies/Pointe-aux-Trembles (Montr\u00e9al)",
+        "centrish_number": "23366759",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$699,000.00",
+        "address": "2303Z Rue Rushbrooke",
+        "location": "Le Sud-Ouest (Montr\u00e9al)",
+        "centrish_number": "24116593",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$549,000.00",
+        "address": "265 Rue de Cherbourg",
+        "location": "Candiac",
+        "centrish_number": "28467820",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$360,000.00",
+        "address": "711 Rue de la Commune O. #606",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "17511081",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$2,750.00",
+        "address": "5284 Av. De Lorimier",
+        "location": "Le Plateau-Mont-Royal (Montr\u00e9al)",
+        "centrish_number": "20373392",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$299,900.00",
+        "address": "2433 Rue Schulz",
+        "location": "Saint-J\u00e9r\u00f4me",
+        "centrish_number": "19709128",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$625,000.00",
+        "address": "1500 Boul. Ren\u00e9-L\u00e9vesque O. #2312",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "20630672",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$2,450.00",
+        "address": "1051 Rue de la Montagne #408",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "23446070",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$899,000.00",
+        "address": "4Z Rue Berlioz",
+        "location": "Verdun/\u00cele-des-Soeurs (Montr\u00e9al)",
+        "centrish_number": "18043396",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$899,000.00",
+        "address": "4 Rue Berlioz",
+        "location": "Verdun/\u00cele-des-Soeurs (Montr\u00e9al)",
+        "centrish_number": "14726914",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$540,000.00",
+        "address": "3462 Rue Anatole-Carignan",
+        "location": "Lachine (Montr\u00e9al)",
+        "centrish_number": "24709047",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$345,000.00",
+        "address": "400 Rue de l\u2019Inspecteur #301",
+        "location": "Le Sud-Ouest (Montr\u00e9al)",
+        "centrish_number": "14737811",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$22,900,000.00 + tax",
+        "address": "460 Rue McGill",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "16633242",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$3,200.00 + tax",
+        "address": "2183 Rue Crescent",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "13973467",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$1,890.00",
+        "address": "235 Rue Young #1010",
+        "location": "Le Sud-Ouest (Montr\u00e9al)",
+        "centrish_number": "9781803",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$1,550.00",
+        "address": "2185 Rue Crescent #1",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "15714343",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$5,800.00 + tax",
+        "address": "2185 Rue Crescent #1STFLOOR",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "9428595",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$1,990.00",
+        "address": "1245 Rue De Bleury #3305",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "15857587",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$1,900.00 + tax",
+        "address": "7470A Boul. Maurice-Duplessis",
+        "location": "Rivi\u00e8re-des-Prairies/Pointe-aux-Trembles (Montr\u00e9al)",
+        "centrish_number": "27953924",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$2,500.00",
+        "address": "1300 Boul. Ren\u00e9-L\u00e9vesque O. #607",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "14358384",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$3,600.00",
+        "address": "350 Rue Prince-Arthur O. #2009",
+        "location": "Le Plateau-Mont-Royal (Montr\u00e9al)",
+        "centrish_number": "20011318",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$440,000.00",
+        "address": "3802 Av. R\u00e9al-B\u00e9land",
+        "location": "Boisbriand",
+        "centrish_number": "24933947",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$2,150.00",
+        "address": "276 Rue Sherbrooke O. #2",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "13124037",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$699,000.00",
+        "address": "5765 Boul. Payer",
+        "location": "Saint-Hubert (Longueuil)",
+        "centrish_number": "13593131",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$2,000.00 + tax",
+        "address": "6003 Ch. Upper-Lachine",
+        "location": "C\u00f4te-des-Neiges/Notre-Dame-de-Gr\u00e2ce (Montr\u00e9al)",
+        "centrish_number": "13094350",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$344,900.00",
+        "address": "950 Rue Notre-Dame O. #341",
+        "location": "Le Sud-Ouest (Montr\u00e9al)",
+        "centrish_number": "14550634",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$2,950.00",
+        "address": "350 Rue Prince-Arthur O. #432",
+        "location": "Le Plateau-Mont-Royal (Montr\u00e9al)",
+        "centrish_number": "27183872",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$2,650.00",
+        "address": "1310 Boul. Ren\u00e9-L\u00e9vesque O. #2907",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "19975449",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$1,049,000.00",
+        "address": "6105 Rue Agathe",
+        "location": "Brossard",
+        "centrish_number": "23874868",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$2,200.00",
+        "address": "1051 Rue de la Montagne #1104",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "14475089",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$2,200.00",
+        "address": "7227 Boul. Newman #911",
+        "location": "LaSalle (Montr\u00e9al)",
+        "centrish_number": "14127120",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$4,950.00",
+        "address": "1009 Rue De Bleury #PH3",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "12090080",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$1,039,999.00",
+        "address": "495 Av. Viger O. #2801",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "25314340",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$549,000.00",
+        "address": "7227 Boul. Newman #1203",
+        "location": "LaSalle (Montr\u00e9al)",
+        "centrish_number": "22363090",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$4,925,000.00",
+        "address": "7621 Boul. des Laurentides",
+        "location": "Auteuil (Laval)",
+        "centrish_number": "14994072",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$1,700.00",
+        "address": "7227 Boul. Newman #524",
+        "location": "LaSalle (Montr\u00e9al)",
+        "centrish_number": "23252714",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$980,000.00",
+        "address": "1431 Ch. Canora",
+        "location": "Mont-Royal",
+        "centrish_number": "19014912",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$1,999.00",
+        "address": "730 Boul. Montpellier #811",
+        "location": "Saint-Laurent (Montr\u00e9al)",
+        "centrish_number": "26137758",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$324,998.00",
+        "address": "7060 Rue Hutchison #208",
+        "location": "Villeray/Saint-Michel/Parc-Extension (Montr\u00e9al)",
+        "centrish_number": "26237340",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$1,100,000.00",
+        "address": "236 Av. Hamford",
+        "location": "Lachute",
+        "centrish_number": "21968367",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$3,000.00",
+        "address": "1310 Boul. Ren\u00e9-L\u00e9vesque O. #1705",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "12625809",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$579,900.00",
+        "address": "5150 Rue Buchan #3301",
+        "location": "C\u00f4te-des-Neiges/Notre-Dame-de-Gr\u00e2ce (Montr\u00e9al)",
+        "centrish_number": "23365708",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$750,000.00",
+        "address": "11711 Rue Lavigne",
+        "location": "Ahuntsic-Cartierville (Montr\u00e9al)",
+        "centrish_number": "25381716",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$4,250.00",
+        "address": "1847 Rue Tupper",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "9838628",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$524,950.00",
+        "address": "51 Rue Principale",
+        "location": "Sainte-Doroth\u00e9e (Laval)",
+        "centrish_number": "24939323",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$3,500.00",
+        "address": "109 Av. Laurier O. #B",
+        "location": "Le Plateau-Mont-Royal (Montr\u00e9al)",
+        "centrish_number": "27249911",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$2,995.00",
+        "address": "1375 Crois. Sherwood #310",
+        "location": "Mont-Royal",
+        "centrish_number": "19154262",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$2,395.00",
+        "address": "1375 Crois. Sherwood #104",
+        "location": "Mont-Royal",
+        "centrish_number": "20392765",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$2,100.00",
+        "address": "720 Rue St-Jacques #4510",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "13949093",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$2,700.00",
+        "address": "120 Boul. St-Joseph O. #B",
+        "location": "Le Plateau-Mont-Royal (Montr\u00e9al)",
+        "centrish_number": "17497145",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$1,395.00",
+        "address": "1375 Crois. Sherwood #112",
+        "location": "Mont-Royal",
+        "centrish_number": "9495928",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$1,395,000.00",
+        "address": "1618 Rue Notre-Dame",
+        "location": "Saint-Sulpice",
+        "centrish_number": "11373952",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$549,000.00",
+        "address": "1228 Rue des Bassins #907",
+        "location": "Le Sud-Ouest (Montr\u00e9al)",
+        "centrish_number": "17412243",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$1,199,000.00",
+        "address": "2000 Rue Drummond #1001",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "24432243",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$699,000.00",
+        "address": "2303 Rue Rushbrooke",
+        "location": "Le Sud-Ouest (Montr\u00e9al)",
+        "centrish_number": "13595043",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$1,625.00",
+        "address": "1 Av. Viger O. #606",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "12120601",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$529,000.00",
+        "address": "350 Rue Eleanor #820",
+        "location": "Le Sud-Ouest (Montr\u00e9al)",
+        "centrish_number": "14743459",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$225,000.00",
+        "address": "16 Rue Kelly",
+        "location": "Saint-Andr\u00e9-d'Argenteuil",
+        "centrish_number": "28022069",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$5,900.00 + tax",
+        "address": "367 Rue Sherbrooke O. #101",
+        "location": "Le Plateau-Mont-Royal (Montr\u00e9al)",
+        "centrish_number": "26739651",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$3,750.00",
+        "address": "109 Av. Laurier O. #A",
+        "location": "Le Plateau-Mont-Royal (Montr\u00e9al)",
+        "centrish_number": "15906295",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$599,000.00",
+        "address": "3635 Av. Jean-B\u00e9raud #201",
+        "location": "Chomedey (Laval)",
+        "centrish_number": "25788592",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$499,000.00",
+        "address": "1050 Rue Drummond #2605",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "16045007",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$499,000.00",
+        "address": "1986 Boul. St-Joseph E.",
+        "location": "Le Plateau-Mont-Royal (Montr\u00e9al)",
+        "centrish_number": "13585002",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$289,000.00 + tax",
+        "address": "1871 Av. du Mont-Royal E.",
+        "location": "Le Plateau-Mont-Royal (Montr\u00e9al)",
+        "centrish_number": "17467983",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$225,000.00 + tax",
+        "address": "244 Mt\u00e9e Masson",
+        "location": "Mascouche",
+        "centrish_number": "25022325",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$2,700.00",
+        "address": "3445 Rue Drummond #1205",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "20890391",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$2,000.00",
+        "address": "13330 Boul. de Pierrefonds #A105",
+        "location": "Pierrefonds-Roxboro (Montr\u00e9al)",
+        "centrish_number": "17618055",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$3,000.00",
+        "address": "18 Av. du Ruisseau",
+        "location": "L'\u00cele-Bizard/Sainte-Genevi\u00e8ve (Montr\u00e9al)",
+        "centrish_number": "25118459",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$2,500.00",
+        "address": "1051 Rue de la Montagne #1704",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "22725345",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$5,000.00",
+        "address": "126 Av. Ballantyne N.",
+        "location": "Montr\u00e9al-Ouest",
+        "centrish_number": "22142311",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$199,000.00 + tax",
+        "address": "1841 Rue Ste-Catherine O.",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "25760882",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$3,695,000.00",
+        "address": "1455 Rue Sherbrooke O. #2803",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "13657348",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$415,000.00",
+        "address": "1205 Rue St-Dominique #404",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "10368812",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$2,700.00",
+        "address": "1001 Place Mount-Royal #602",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "25979722",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$3,495,000.00",
+        "address": "3225 Av. Cedar",
+        "location": "Westmount",
+        "centrish_number": "11754907",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$389,000.00",
+        "address": "1800 Boul. Ren\u00e9-L\u00e9vesque O. #106",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "17960066",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$479,000.00",
+        "address": "1155 Rue de la Montagne #411",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "19363838",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$399,000.00",
+        "address": "4962 Rue Lake",
+        "location": "Dollard-Des Ormeaux",
+        "centrish_number": "22061593",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$1,850.00",
+        "address": "1155 Rue de la Montagne #311",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "15217762",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$3,500.00",
+        "address": "1310 Boul. Ren\u00e9-L\u00e9vesque O. #2904",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "25634559",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$579,000.00",
+        "address": "1155 Rue de la Montagne #1906",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "23266681",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$489,000.00",
+        "address": "1188 Rue St-Antoine O. #2412",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "16814851",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$499,000.00",
+        "address": "1155 Rue de la Montagne #311",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "10820871",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$399,000.00",
+        "address": "4962Z Rue Lake",
+        "location": "Dollard-Des Ormeaux",
+        "centrish_number": "13322940",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$899,000.00",
+        "address": "6005 Boul. Cavendish #304",
+        "location": "C\u00f4te-Saint-Luc",
+        "centrish_number": "15696536",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$2,650.00",
+        "address": "2185 Rue Lucien-Thimens #303",
+        "location": "Saint-Laurent (Montr\u00e9al)",
+        "centrish_number": "27489521",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$574,900.00",
+        "address": "1188 Av. Union #2406",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "13623059",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$524,900.00",
+        "address": "3915 Rue de Rouen #302",
+        "location": "Mercier/Hochelaga-Maisonneuve (Montr\u00e9al)",
+        "centrish_number": "18478562",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$749,000.00",
+        "address": "6803 Rue Abraham-De Sola #803",
+        "location": "C\u00f4te-Saint-Luc",
+        "centrish_number": "19230843",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$649,000.00",
+        "address": "1700 Av. Papineau #212",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "13495281",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$499,000.00",
+        "address": "51 Av. Normand",
+        "location": "Ch\u00e2teauguay",
+        "centrish_number": "25431404",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$550.00 + tax",
+        "address": "4795 Boul. St-Charles #102",
+        "location": "Pierrefonds-Roxboro (Montr\u00e9al)",
+        "centrish_number": "22708303",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$649,000.00",
+        "address": "372 Place Chantilly",
+        "location": "Beaconsfield",
+        "centrish_number": "27852277",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$289,000.00",
+        "address": "16659 Boul. de Pierrefonds #102",
+        "location": "Pierrefonds-Roxboro (Montr\u00e9al)",
+        "centrish_number": "28683638",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$98,000.00 + tax",
+        "address": "7272 Boul. Maurice-Duplessis #20",
+        "location": "Rivi\u00e8re-des-Prairies/Pointe-aux-Trembles (Montr\u00e9al)",
+        "centrish_number": "24032232",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$374,500.00",
+        "address": "Ch. Barker",
+        "location": "Ivry-sur-le-Lac",
+        "centrish_number": "20537048",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$3,500.00",
+        "address": "6527 Rue Bannantyne",
+        "location": "Verdun/\u00cele-des-Soeurs (Montr\u00e9al)",
+        "centrish_number": "27233014",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$1,325,000.00",
+        "address": "351Z Rue Narbonne",
+        "location": "Sainte-Julie",
+        "centrish_number": "20819649",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$529,000.00",
+        "address": "35 Boul. Georges-Gagn\u00e9 S. #19",
+        "location": "Delson",
+        "centrish_number": "11658978",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$1,325,000.00",
+        "address": "351 Rue Narbonne",
+        "location": "Sainte-Julie",
+        "centrish_number": "20893218",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$2,250.00",
+        "address": "1051 Rue de la Montagne #1006",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "21003444",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$2,600.00",
+        "address": "1051 Rue de la Montagne #804",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "12795676",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$599,000.00",
+        "address": "4444 Rue Sherbrooke O. #204",
+        "location": "Westmount",
+        "centrish_number": "28735259",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$289,000.00",
+        "address": "6801 Boul. des Roseraies #305",
+        "location": "Anjou (Montr\u00e9al)",
+        "centrish_number": "23074569",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$4,500.00",
+        "address": "4725 Rue de Cap-\u00e0-l\u2019Aigle",
+        "location": "Sainte-Ad\u00e8le",
+        "centrish_number": "25778534",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$2,300.00",
+        "address": "4500 Ch. de la C\u00f4te-des-Neiges #408",
+        "location": "C\u00f4te-des-Neiges/Notre-Dame-de-Gr\u00e2ce (Montr\u00e9al)",
+        "centrish_number": "16190070",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$579,000.00",
+        "address": "1188 Rue St-Antoine O. #3310",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "27593256",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$3,250.00",
+        "address": "720 Rue St-Jacques #3302",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "16889280",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$2,400.00",
+        "address": "837 Rue Viger",
+        "location": "Brossard",
+        "centrish_number": "15936984",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$19,900.00 + tax",
+        "address": "367 Rue Sherbrooke O. #101",
+        "location": "Le Plateau-Mont-Royal (Montr\u00e9al)",
+        "centrish_number": "17004447",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$2,795,000.00",
+        "address": "3773 Boul. The Boulevard",
+        "location": "Westmount",
+        "centrish_number": "27998798",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$8,500.00",
+        "address": "3773 Boul. The Boulevard",
+        "location": "Westmount",
+        "centrish_number": "12426723",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$689,000.00",
+        "address": "360 Boul. Wilson",
+        "location": "Le Vieux-Longueuil (Longueuil)",
+        "centrish_number": "18398949",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$329,900.00",
+        "address": "8685 Place du Charpentier #2",
+        "location": "Mirabel",
+        "centrish_number": "23547633",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$2,800.00",
+        "address": "2300 Rue Tupper #313",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "27664944",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$596,000.00",
+        "address": "2055 Rue du Fort #509",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "13414340",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$379,000.00",
+        "address": "3810 Rue St-Antoine O. #215",
+        "location": "Le Sud-Ouest (Montr\u00e9al)",
+        "centrish_number": "19067811",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$799,000.00",
+        "address": "711 Rue de la Commune O. #810",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "22562855",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$525,000.00",
+        "address": "711 Rue de la Commune O. #312",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "17702335",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$415,000.00",
+        "address": "711 Rue de la Commune O. #509",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "11814270",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$1,149,000.00",
+        "address": "101 Tsse Paul-Comtois",
+        "location": "Pont-Viau (Laval)",
+        "centrish_number": "27573873",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$1,749,000.00",
+        "address": "6390 Boul. L\u00e9ger",
+        "location": "Montr\u00e9al-Nord (Montr\u00e9al)",
+        "centrish_number": "27900001",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$464,000.00",
+        "address": "100 Av. du Golf #402",
+        "location": "La Prairie",
+        "centrish_number": "25874692",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$1,490,000.00 + tax",
+        "address": "2 Rue St-Hyacinthe",
+        "location": "Sainte-Anne-de-Bellevue",
+        "centrish_number": "23021174",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$949,000.00 + tax",
+        "address": "53 Rue Ste-Anne",
+        "location": "Sainte-Anne-de-Bellevue",
+        "centrish_number": "12991246",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$799,000.00",
+        "address": "8169 Av. Wiseman",
+        "location": "Villeray/Saint-Michel/Parc-Extension (Montr\u00e9al)",
+        "centrish_number": "14055309",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$4,000.00",
+        "address": "231 Boul. de Ste-Ad\u00e8le",
+        "location": "Sainte-Ad\u00e8le",
+        "centrish_number": "10039383",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$2,635.00",
+        "address": "215 Rue Murray #704",
+        "location": "Le Sud-Ouest (Montr\u00e9al)",
+        "centrish_number": "20048056",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$2,195.00",
+        "address": "7 Av. Roosevelt #2",
+        "location": "Mont-Royal",
+        "centrish_number": "27815708",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$1,995.00",
+        "address": "7 Av. Roosevelt #16",
+        "location": "Mont-Royal",
+        "centrish_number": "16512755",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$3,400.00",
+        "address": "1051 Rue de la Montagne #1405",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "14166820",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$699,999.00",
+        "address": "3665 Av. Jean-B\u00e9raud #501",
+        "location": "Chomedey (Laval)",
+        "centrish_number": "12021787",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$489,900.00",
+        "address": "11 Rue des Bourgeons ",
+        "location": "Lac-Brome",
+        "centrish_number": "14927297",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$899,000.00",
+        "address": "680Z Rue d\u2019Hibernia",
+        "location": "Le Sud-Ouest (Montr\u00e9al)",
+        "centrish_number": "20291820",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$899,000.00",
+        "address": "680 Rue d\u2019Hibernia",
+        "location": "Le Sud-Ouest (Montr\u00e9al)",
+        "centrish_number": "14234954",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$869,000.00",
+        "address": "628 Rue St-Jacques #1601",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "14017687",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$542,000.00",
+        "address": "7227 Boul. Newman #903",
+        "location": "LaSalle (Montr\u00e9al)",
+        "centrish_number": "9905616",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$470,000.00",
+        "address": "628 Rue St-Jacques #703",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "16759469",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$529,000.00",
+        "address": "210 Ch. du Golf #313",
+        "location": "Verdun/\u00cele-des-Soeurs (Montr\u00e9al)",
+        "centrish_number": "14691358",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$5,975.00",
+        "address": "6001 Ch. Upper-Lachine",
+        "location": "C\u00f4te-des-Neiges/Notre-Dame-de-Gr\u00e2ce (Montr\u00e9al)",
+        "centrish_number": "14661251",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$349,000.00",
+        "address": "2240 Boul. Thimens #351",
+        "location": "Saint-Laurent (Montr\u00e9al)",
+        "centrish_number": "20808380",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$115,000.00 + tax",
+        "address": "3614 Boul. St-Laurent",
+        "location": "Le Plateau-Mont-Royal (Montr\u00e9al)",
+        "centrish_number": "22654347",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$3,500.00",
+        "address": "346 Ch. de la C\u00f4te-Ste-Catherine",
+        "location": "Outremont (Montr\u00e9al)",
+        "centrish_number": "16698389",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$329,000.00",
+        "address": "48 Rue Mercier",
+        "location": "L'\u00cele-Bizard/Sainte-Genevi\u00e8ve (Montr\u00e9al)",
+        "centrish_number": "12967466",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$2,100.00",
+        "address": "1771 Ch. du Domaine",
+        "location": "Saint-Adolphe-d'Howard",
+        "centrish_number": "19169376",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$719,000.00",
+        "address": "6803 Ch. Heywood #601",
+        "location": "C\u00f4te-Saint-Luc",
+        "centrish_number": "27673284",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$849,000.00",
+        "address": "4552 Rue Stanley-Weir",
+        "location": "C\u00f4te-des-Neiges/Notre-Dame-de-Gr\u00e2ce (Montr\u00e9al)",
+        "centrish_number": "17889029",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$370,000.00",
+        "address": "1771 Ch. du Domaine",
+        "location": "Saint-Adolphe-d'Howard",
+        "centrish_number": "28587962",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$384,900.00 + tax",
+        "address": "4055 Rue Ste-Catherine O. #124-125",
+        "location": "Westmount",
+        "centrish_number": "23285434",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$449,900.00",
+        "address": "1265 Rue St-Timoth\u00e9e #303",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "24781819",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$2,300.00",
+        "address": "1051 Rue de la Montagne #1202",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "19348308",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$2,600.00",
+        "address": "1109 Ch. Jackson",
+        "location": "Wentworth-Nord",
+        "centrish_number": "20928372",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$2,150.00",
+        "address": "1051 Rue de la Montagne #1102",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "21035188",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$2,150.00",
+        "address": "1051 Rue de la Montagne #902",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "28886608",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$952,700.00 + tax",
+        "address": "1051 Rue de la Montagne #601",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "28929993",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$583,500.00 + tax",
+        "address": "1051 Rue de la Montagne #706",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "20351923",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$897,600.00 + tax",
+        "address": "1051 Rue de la Montagne #907",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "22391912",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$970,400.00 + tax",
+        "address": "1051 Rue de la Montagne #1205",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "13132550",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$7,300,000.00",
+        "address": "2000 Rue Drummond #PH2300",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "28699377",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$457,900.00",
+        "address": "1109 Ch. Jackson",
+        "location": "Wentworth-Nord",
+        "centrish_number": "28649050",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$17.00",
+        "address": "1300B Rue de Louvain O.",
+        "location": "Ahuntsic-Cartierville (Montr\u00e9al)",
+        "centrish_number": "26888039",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$14.00",
+        "address": "1300A Rue de Louvain O.",
+        "location": "Ahuntsic-Cartierville (Montr\u00e9al)",
+        "centrish_number": "15511319",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$59,900.00",
+        "address": "1170S Rue Montcalm",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "10748664",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$548,000.00",
+        "address": "11860 Rue Notre-Dame E. #105",
+        "location": "Rivi\u00e8re-des-Prairies/Pointe-aux-Trembles (Montr\u00e9al)",
+        "centrish_number": "15370559",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$1,699,000.00",
+        "address": "10 Place du Moulin",
+        "location": "L'\u00cele-Bizard/Sainte-Genevi\u00e8ve (Montr\u00e9al)",
+        "centrish_number": "18150964",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$525,000.00",
+        "address": "3445 Rue Drummond #1205",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "10028456",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$3,250.00",
+        "address": "1059 Rue de la Montagne #1601",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "18829911",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$1,450,000.00",
+        "address": "2768 Av. d\u2019Orl\u00e9ans",
+        "location": "Mercier/Hochelaga-Maisonneuve (Montr\u00e9al)",
+        "centrish_number": "13864377",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$479,000.00",
+        "address": "3445 Rue Drummond #905",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "17895525",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$410,000.00",
+        "address": "1320 Rue Olier #611",
+        "location": "Le Sud-Ouest (Montr\u00e9al)",
+        "centrish_number": "19382358",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$310,000.00",
+        "address": "1390 Rue du Fort #1211",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "17939476",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$549,000.00 + tax",
+        "address": "443 Av. du Pr\u00e9sident-Kennedy",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "24688746",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$149,000.00 + tax",
+        "address": "443 Av. du Pr\u00e9sident-Kennedy",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "23151740",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$2,500.00 + tax",
+        "address": "6095 Boul. Couture",
+        "location": "Saint-L\u00e9onard (Montr\u00e9al)",
+        "centrish_number": "11488120",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$649,900.00",
+        "address": "1400 Rue Ottawa #330B",
+        "location": "Le Sud-Ouest (Montr\u00e9al)",
+        "centrish_number": "20091460",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$578,000.00",
+        "address": "2055 Rue du Fort #201",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "27459585",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$1,549,000.00",
+        "address": "30 Rue \u00c9mile-Nelligan",
+        "location": "Notre-Dame-de-l'\u00cele-Perrot",
+        "centrish_number": "17434486",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$1,650,000.00 + tax",
+        "address": "8438 Rue du Creusot",
+        "location": "Saint-L\u00e9onard (Montr\u00e9al)",
+        "centrish_number": "19256015",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$6,488,888.00",
+        "address": "1650 Rue Sherbrooke O. #TH7",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "9175932",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$2,500.00 + tax",
+        "address": "470 Rue L\u00e9ger #5",
+        "location": "Rivi\u00e8re-Beaudette",
+        "centrish_number": "11385991",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$7,500.00 + tax",
+        "address": "430 Rue L\u00e9ger #4",
+        "location": "Rivi\u00e8re-Beaudette",
+        "centrish_number": "12680126",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$599,900.00",
+        "address": "1188 Rue St-Antoine O. #4301",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "16559090",
+        "sold": false
+    },
+    {
+        "title": "Rent",
+        "price": "$3,350.00",
+        "address": "700 Rue St-Jacques #2109",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "21069930",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$239,000.00",
+        "address": "479 Av. Mousseau-Vermette #4407",
+        "location": "Montr\u00e9al-Ouest",
+        "centrish_number": "715453249",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$369,000.00",
+        "address": "280 Boul. Hymus #507",
+        "location": "Montr\u00e9al-Ouest",
+        "centrish_number": "715070127",
+        "sold": true
+    },
+    {
+        "title": "Rent",
+        "price": "$2600.00",
+        "address": "13290 Rue Sauriol",
+        "location": "Montr\u00e9al-Ouest",
+        "centrish_number": "713124230",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$575,000.00",
+        "address": "11421-1142 Rue Joseph-Casavant",
+        "location": "Montr\u00e9al-Est",
+        "centrish_number": "720001647",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$449,000.00",
+        "address": "2390 Rue De Biencourt #304",
+        "location": "Montr\u00e9al-Ouest",
+        "centrish_number": "716382372",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$1,050,000.00",
+        "address": "1576-1584 Rue Plessis",
+        "location": "Montr\u00e9al-Ouest",
+        "centrish_number": "714666173",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$1,145,000.00",
+        "address": "5215 Rue St-Hubert",
+        "location": "Mont-Royal",
+        "centrish_number": "718847094",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$449,000.00",
+        "address": "2137 Av. Oxford #303",
+        "location": "Abercorn",
+        "centrish_number": "7114577635",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$1,350,000.00 + tax",
+        "address": "27 4e Rang N.",
+        "location": "Mont-Saint-Gr\u00e9goire",
+        "centrish_number": "15561365",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$609,000.00",
+        "address": "7227 Boul. Newman #901",
+        "location": "LaSalle (Montr\u00e9al)",
+        "centrish_number": "17952887",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$729,000.00",
+        "address": "1755 Rue St-Patrick #C201",
+        "location": "Le Sud-Ouest (Montr\u00e9al)",
+        "centrish_number": "11147872",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$920,000.00",
+        "address": "230 54e Avenue",
+        "location": "Lachine (Montr\u00e9al)",
+        "centrish_number": "27418186",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$475,000.00",
+        "address": "5949 Rue Jeanne-Mance",
+        "location": "Le Plateau-Mont-Royal (Montr\u00e9al)",
+        "centrish_number": "20906374",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$380,000.00",
+        "address": "4061 Rue Joliette #6",
+        "location": "Rosemont/La Petite-Patrie (Montr\u00e9al)",
+        "centrish_number": "15796969",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$499,000.00",
+        "address": "350 Rue Eleanor #824",
+        "location": "Le Sud-Ouest (Montr\u00e9al)",
+        "centrish_number": "19655296",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$499,000.00",
+        "address": "5077 Rue Par\u00e9 #513",
+        "location": "C\u00f4te-des-Neiges/Notre-Dame-de-Gr\u00e2ce (Montr\u00e9al)",
+        "centrish_number": "9369163",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$489,000.00",
+        "address": "2240 Rue Viau #7",
+        "location": "Mercier/Hochelaga-Maisonneuve (Montr\u00e9al)",
+        "centrish_number": "25477089",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$629,000.00",
+        "address": "888 Rue Wellington #1104",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "10335935",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$399,000.00",
+        "address": "400 Rue de l\u2019Inspecteur #616",
+        "location": "Le Sud-Ouest (Montr\u00e9al)",
+        "centrish_number": "28208829",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$429,000.00",
+        "address": "1188 Av. Union #1802",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "26555437",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$249,000.00",
+        "address": "145 Rue Ste-Anne",
+        "location": "Sainte-Anne-de-Bellevue",
+        "centrish_number": "15142316",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$649,000.00",
+        "address": "301 Ch. du Club-Marin #402",
+        "location": "Verdun/\u00cele-des-Soeurs (Montr\u00e9al)",
+        "centrish_number": "10823521",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$399,900.00",
+        "address": "2064 Rue Modigliani #202",
+        "location": "Saint-Laurent (Montr\u00e9al)",
+        "centrish_number": "24761675",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$580,000.00",
+        "address": "7438 Boul. Henri-Bourassa O.",
+        "location": "Saint-Laurent (Montr\u00e9al)",
+        "centrish_number": "10223125",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$229,000.00",
+        "address": "3470 Rue Simpson #208",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "12304054",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$350,000.00",
+        "address": "4726 Rue Chabot #3",
+        "location": "Le Plateau-Mont-Royal (Montr\u00e9al)",
+        "centrish_number": "21009080",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$409,000.00",
+        "address": "2074 Rue de Castellane",
+        "location": "Vimont (Laval)",
+        "centrish_number": "20323682",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$535,000.00",
+        "address": "5025 Rue Par\u00e9 #618",
+        "location": "C\u00f4te-des-Neiges/Notre-Dame-de-Gr\u00e2ce (Montr\u00e9al)",
+        "centrish_number": "25867189",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$439,999.00",
+        "address": "665 Rue Guy #4",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "18148231",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$349,000.00",
+        "address": "122 Av. de Balmoral #1",
+        "location": "La Prairie",
+        "centrish_number": "14187514",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$699,000.00",
+        "address": "4046 Rue de Verdun",
+        "location": "Verdun/\u00cele-des-Soeurs (Montr\u00e9al)",
+        "centrish_number": "25075251",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$1,749,000.00",
+        "address": "4065 Av. Beaconsfield",
+        "location": "C\u00f4te-des-Neiges/Notre-Dame-de-Gr\u00e2ce (Montr\u00e9al)",
+        "centrish_number": "14068253",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$839,900.00",
+        "address": "1300 Boul. Ren\u00e9-L\u00e9vesque O. #3605",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "26860947",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$1,200,000.00",
+        "address": "1589 Rue Holmes",
+        "location": "Saint-Hubert (Longueuil)",
+        "centrish_number": "23420629",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$1,200,000.00",
+        "address": "1579 Rue Holmes",
+        "location": "Saint-Hubert (Longueuil)",
+        "centrish_number": "17531829",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$649,000.00",
+        "address": "299 Rue de la Rotonde #508",
+        "location": "Verdun/\u00cele-des-Soeurs (Montr\u00e9al)",
+        "centrish_number": "19087795",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$889,000.00",
+        "address": "2801 Rue du Centre #101",
+        "location": "Le Sud-Ouest (Montr\u00e9al)",
+        "centrish_number": "12819246",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$457,000.00",
+        "address": "5160 Rue Notre-Dame O. #3",
+        "location": "Le Sud-Ouest (Montr\u00e9al)",
+        "centrish_number": "28591279",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$849,000.00",
+        "address": "322 Boul. Neptune",
+        "location": "Dorval",
+        "centrish_number": "12331793",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$995,000.00",
+        "address": "949 Rue Tittley",
+        "location": "LaSalle (Montr\u00e9al)",
+        "centrish_number": "19847230",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$749,000.00",
+        "address": "2377 Rue St-Jacques",
+        "location": "Le Sud-Ouest (Montr\u00e9al)",
+        "centrish_number": "22125229",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$379,000.00",
+        "address": "1150 Rue St-Denis #906",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "23184205",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$449,000.00",
+        "address": "5600 Crois. Beaumanoir",
+        "location": "Brossard",
+        "centrish_number": "20129655",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$389,000.00",
+        "address": "4478 Av. Laval #2",
+        "location": "Le Plateau-Mont-Royal (Montr\u00e9al)",
+        "centrish_number": "17687479",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$550,000.00",
+        "address": "100 Av. des Sommets #1803",
+        "location": "Verdun/\u00cele-des-Soeurs (Montr\u00e9al)",
+        "centrish_number": "15489211",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$449,000.00",
+        "address": "300 Rue du Petit-Coliade #402",
+        "location": "La Prairie",
+        "centrish_number": "20022545",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$439,000.00",
+        "address": "7051 Rue Allard #302",
+        "location": "LaSalle (Montr\u00e9al)",
+        "centrish_number": "24981303",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$425,000.00",
+        "address": "16 Rue Dauphin",
+        "location": "Dollard-Des Ormeaux",
+        "centrish_number": "23977221",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$425,000.00",
+        "address": "16Z Rue Dauphin",
+        "location": "Dollard-Des Ormeaux",
+        "centrish_number": "28187749",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$319,900.00",
+        "address": "2680 Rue Goyer #404",
+        "location": "C\u00f4te-des-Neiges/Notre-Dame-de-Gr\u00e2ce (Montr\u00e9al)",
+        "centrish_number": "18449712",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$989,000.00",
+        "address": "1590 Crois. Salzbourg",
+        "location": "Brossard",
+        "centrish_number": "18482538",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$689,000.00",
+        "address": "6803 Rue Abraham-De Sola #502",
+        "location": "C\u00f4te-Saint-Luc",
+        "centrish_number": "28065812",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$349,000.00",
+        "address": "1799 Rue De Lorimier",
+        "location": "Le Vieux-Longueuil (Longueuil)",
+        "centrish_number": "14537716",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$524,900.00",
+        "address": "11923 Av. Savard",
+        "location": "Montr\u00e9al-Nord (Montr\u00e9al)",
+        "centrish_number": "21393931",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$749,000.00",
+        "address": "285 Place D\u2019Youville #16",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "21632045",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$1,299,000.00",
+        "address": "3857 Av. de Melrose",
+        "location": "C\u00f4te-des-Neiges/Notre-Dame-de-Gr\u00e2ce (Montr\u00e9al)",
+        "centrish_number": "24675670",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$899,000.00",
+        "address": "110 Boul. L\u00e9vesque E.",
+        "location": "Pont-Viau (Laval)",
+        "centrish_number": "22944925",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$719,000.00",
+        "address": "299 Rue de la Rotonde #2909",
+        "location": "Verdun/\u00cele-des-Soeurs (Montr\u00e9al)",
+        "centrish_number": "19933497",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$625,000.00",
+        "address": "354 Rue Justin",
+        "location": "Fabreville (Laval)",
+        "centrish_number": "22461159",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$489,000.00",
+        "address": "7365 Rue Monnier",
+        "location": "Laval-Ouest (Laval)",
+        "centrish_number": "22268082",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$925,000.00",
+        "address": "438Z Av. Jenkins",
+        "location": "Lachine (Montr\u00e9al)",
+        "centrish_number": "19320816",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$695,000.00",
+        "address": "1551 Ch. du Moulin",
+        "location": "Sainte-Ad\u00e8le",
+        "centrish_number": "27017074",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$839,000.00",
+        "address": "407Z Rue Khalil-Gibran",
+        "location": "Saint-Laurent (Montr\u00e9al)",
+        "centrish_number": "28422336",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$925,000.00",
+        "address": "438 Av. Jenkins",
+        "location": "Lachine (Montr\u00e9al)",
+        "centrish_number": "26279405",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$729,000.00",
+        "address": "2157 Av. Marcil",
+        "location": "C\u00f4te-des-Neiges/Notre-Dame-de-Gr\u00e2ce (Montr\u00e9al)",
+        "centrish_number": "15808227",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$750,000.00",
+        "address": "1789 Rue des Merles",
+        "location": "Saint-Lazare",
+        "centrish_number": "24677511",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$249,000.00",
+        "address": "5945 Rue de la Tourbi\u00e8re #106",
+        "location": "Saint-Hubert (Longueuil)",
+        "centrish_number": "18296994",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$1,099,000.00",
+        "address": "3880 Rue de l\u2019Intendant",
+        "location": "Duvernay (Laval)",
+        "centrish_number": "21457418",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$229,000.00",
+        "address": "123 Rue Notre-Dame",
+        "location": "Champlain",
+        "centrish_number": "25456689",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$259,000.00",
+        "address": "121 Rue Notre-Dame",
+        "location": "Champlain",
+        "centrish_number": "10608243",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$1,349,000.00",
+        "address": "193 Rue Fairhaven",
+        "location": "Hudson",
+        "centrish_number": "16384340",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$879,000.00",
+        "address": "26 Cours des Foug\u00e8res",
+        "location": "Verdun/\u00cele-des-Soeurs (Montr\u00e9al)",
+        "centrish_number": "23064113",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$409,000.00",
+        "address": "321 Rue Bourgeoys #3",
+        "location": "Le Sud-Ouest (Montr\u00e9al)",
+        "centrish_number": "11248636",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$1,399,000.00",
+        "address": "6557 Boul. Pie-IX",
+        "location": "Rosemont/La Petite-Patrie (Montr\u00e9al)",
+        "centrish_number": "23436851",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$1,249,000.00",
+        "address": "4546 Rue St-Hubert",
+        "location": "Le Plateau-Mont-Royal (Montr\u00e9al)",
+        "centrish_number": "12688451",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$359,000.00",
+        "address": "3310 Rue Charles-Best #302",
+        "location": "Chomedey (Laval)",
+        "centrish_number": "25523437",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$475,000.00",
+        "address": "8782 Rue des Muguets",
+        "location": "Sorel-Tracy",
+        "centrish_number": "26594133",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$599,000.00",
+        "address": "4821 Rue Ste-Catherine O.",
+        "location": "Westmount",
+        "centrish_number": "17915171",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$425,000.00",
+        "address": "201 Ch. du Club-Marin #1105",
+        "location": "Verdun/\u00cele-des-Soeurs (Montr\u00e9al)",
+        "centrish_number": "21262826",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$399,000.00",
+        "address": "2600 Boul. Thimens #402",
+        "location": "Saint-Laurent (Montr\u00e9al)",
+        "centrish_number": "20206861",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$999,000.00",
+        "address": "5227 Boul. Gouin E.",
+        "location": "Montr\u00e9al-Nord (Montr\u00e9al)",
+        "centrish_number": "16606411",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$999,000.00",
+        "address": "5229 Boul. Gouin E.",
+        "location": "Montr\u00e9al-Nord (Montr\u00e9al)",
+        "centrish_number": "15349983",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$884,999.00",
+        "address": "250 Ch. de la Pointe-Sud #1203",
+        "location": "Verdun/\u00cele-des-Soeurs (Montr\u00e9al)",
+        "centrish_number": "24801322",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$430,000.00",
+        "address": "5790 Av. Rembrandt #410",
+        "location": "C\u00f4te-Saint-Luc",
+        "centrish_number": "15119344",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$869,000.00",
+        "address": "1050 Rue Drummond #2501",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "21263956",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$579,000.00",
+        "address": "7375B Ch. Kildare",
+        "location": "C\u00f4te-Saint-Luc",
+        "centrish_number": "17877237",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$1,089,000.00",
+        "address": "2126Z Boul. Gouin E.",
+        "location": "Ahuntsic-Cartierville (Montr\u00e9al)",
+        "centrish_number": "11326153",
+        "sold": true
+    },
+    {
+        "title": "Rent",
+        "price": "$8,500.00",
+        "address": "3773 Boul. The Boulevard",
+        "location": "Westmount",
+        "centrish_number": "24225472",
+        "sold": false
+    },
+    {
+        "title": "Sale",
+        "price": "$789,000.00",
+        "address": "4511Z Rue Cornwall",
+        "location": "Saint-Hubert (Longueuil)",
+        "centrish_number": "14382067",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$889,000.00",
+        "address": "3525Z Av. Ernest-Hemingway",
+        "location": "Saint-Laurent (Montr\u00e9al)",
+        "centrish_number": "22004971",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$349,000.00",
+        "address": "11900 Rue Dulongpr\u00e9 #107",
+        "location": "Ahuntsic-Cartierville (Montr\u00e9al)",
+        "centrish_number": "25941268",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$499,900.00",
+        "address": "1000 Rue de la Commune E. #313",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "14669680",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$850,000.00",
+        "address": "1808 Rue de Beaulac",
+        "location": "Chambly",
+        "centrish_number": "25213896",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$749,900.00",
+        "address": "2038 Av. Marlowe",
+        "location": "C\u00f4te-des-Neiges/Notre-Dame-de-Gr\u00e2ce (Montr\u00e9al)",
+        "centrish_number": "20579032",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$299,000.00",
+        "address": "1616 Rue des Bassins #827",
+        "location": "Le Sud-Ouest (Montr\u00e9al)",
+        "centrish_number": "25396400",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$475,000.00",
+        "address": "3185 Boul. de la Gare #402",
+        "location": "Vaudreuil-Dorion",
+        "centrish_number": "11544905",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$378,000.00",
+        "address": "2015 Av. Aird #206",
+        "location": "Mercier/Hochelaga-Maisonneuve (Montr\u00e9al)",
+        "centrish_number": "21119464",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$649,000.00",
+        "address": "445 Av. Viger O. #1304",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "15130997",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$649,000.00",
+        "address": "4499 Rue de Monaco",
+        "location": "Pierrefonds-Roxboro (Montr\u00e9al)",
+        "centrish_number": "19016180",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$425,000.00",
+        "address": "61 Rue H\u00f4tel-de-Ville",
+        "location": "Vaudreuil-Dorion",
+        "centrish_number": "21668545",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$2,500,000.00 + tax",
+        "address": "8223 Rue Lafrenaie",
+        "location": "Saint-L\u00e9onard (Montr\u00e9al)",
+        "centrish_number": "10225274",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$399,000.00",
+        "address": "4310 Rue St-Jacques #304",
+        "location": "Le Sud-Ouest (Montr\u00e9al)",
+        "centrish_number": "14053118",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$289,000.00",
+        "address": "4600 Rue Ren\u00e9-\u00c9mard #404",
+        "location": "Pierrefonds-Roxboro (Montr\u00e9al)",
+        "centrish_number": "23066454",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$449,000.00",
+        "address": "145 Av. Coolbreeze",
+        "location": "Pointe-Claire",
+        "centrish_number": "24559897",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$450,000.00",
+        "address": "221 Rue Brion",
+        "location": "Saint-Amable",
+        "centrish_number": "18264066",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$845,000.00",
+        "address": "6165 Rue Despr\u00e9aux",
+        "location": "Saint-L\u00e9onard (Montr\u00e9al)",
+        "centrish_number": "13013539",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$1,349,000.00",
+        "address": "3821 Av. d\u2019Oxford",
+        "location": "C\u00f4te-des-Neiges/Notre-Dame-de-Gr\u00e2ce (Montr\u00e9al)",
+        "centrish_number": "10327617",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$859,000.00",
+        "address": "5841 Rue du Vir\u00e9o",
+        "location": "Sainte-Rose (Laval)",
+        "centrish_number": "11736346",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$759,000.00",
+        "address": "349 Preston Drive",
+        "location": "Beaconsfield",
+        "centrish_number": "15037375",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$769,000.00",
+        "address": "5041 Av. de Kensington",
+        "location": "C\u00f4te-des-Neiges/Notre-Dame-de-Gr\u00e2ce (Montr\u00e9al)",
+        "centrish_number": "22435517",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$449,000.00",
+        "address": "39 Av. Belton",
+        "location": "Pointe-Claire",
+        "centrish_number": "10390416",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$299,000.00",
+        "address": "14380 Rue Jolicoeur #102",
+        "location": "Pierrefonds-Roxboro (Montr\u00e9al)",
+        "centrish_number": "10658961",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$199,000.00",
+        "address": "Route Harwood",
+        "location": "Vaudreuil-Dorion",
+        "centrish_number": "25957581",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$599,000.00",
+        "address": "197 Ch. Dainava",
+        "location": "Mille-Isles",
+        "centrish_number": "12759241",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$395,000.00",
+        "address": "801 Rue de la Commune E. #308",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "17146088",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$516,000.00",
+        "address": "214 Rue M\u00e9dard-Bourgault",
+        "location": "Sainte-Rose (Laval)",
+        "centrish_number": "19181017",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$749,000.00",
+        "address": "212 Rue des Francs-Tireurs",
+        "location": "Les Coteaux",
+        "centrish_number": "18980785",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$445,000.00",
+        "address": "1871 Rue Senkus #3E",
+        "location": "LaSalle (Montr\u00e9al)",
+        "centrish_number": "28686590",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$329,000.00",
+        "address": "1800 Boul. Ren\u00e9-L\u00e9vesque O. #212",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "25095906",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$329,000.00",
+        "address": "995 Boul. Jules-Poitras #309",
+        "location": "Saint-Laurent (Montr\u00e9al)",
+        "centrish_number": "17509746",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$330,000.00",
+        "address": "150 Rue Berlioz #637",
+        "location": "Verdun/\u00cele-des-Soeurs (Montr\u00e9al)",
+        "centrish_number": "23759711",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$1,075,000.00",
+        "address": "162 Av. Kipling",
+        "location": "Beaconsfield",
+        "centrish_number": "25521257",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$260,000.00",
+        "address": "10011 Boul. Pie-IX #802",
+        "location": "Montr\u00e9al-Nord (Montr\u00e9al)",
+        "centrish_number": "23789349",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$799,000.00",
+        "address": "1862 Av. Woodland",
+        "location": "Le Sud-Ouest (Montr\u00e9al)",
+        "centrish_number": "18506542",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$649,000.00",
+        "address": "5077 Rue Par\u00e9 #125",
+        "location": "C\u00f4te-des-Neiges/Notre-Dame-de-Gr\u00e2ce (Montr\u00e9al)",
+        "centrish_number": "25018219",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$575,000.00",
+        "address": "112 Ch. de la Pointe-Nord #603",
+        "location": "Verdun/\u00cele-des-Soeurs (Montr\u00e9al)",
+        "centrish_number": "22328119",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$539,000.00",
+        "address": "11625 Rue Gilles-Trottier",
+        "location": "Rivi\u00e8re-des-Prairies/Pointe-aux-Trembles (Montr\u00e9al)",
+        "centrish_number": "21156979",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$649,000.00",
+        "address": "5109 Rue Humphrys",
+        "location": "Vaudreuil-Dorion",
+        "centrish_number": "22277984",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$389,000.00",
+        "address": "2440 Rue de Ch\u00e2teauguay",
+        "location": "Le Sud-Ouest (Montr\u00e9al)",
+        "centrish_number": "24002148",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$510,000.00",
+        "address": "4820 Rue Resther #402",
+        "location": "Le Plateau-Mont-Royal (Montr\u00e9al)",
+        "centrish_number": "27573698",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$699,000.00",
+        "address": "1380 Rue St-Charles O.",
+        "location": "Le Vieux-Longueuil (Longueuil)",
+        "centrish_number": "13793985",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$445,000.00",
+        "address": "1288 Av. des Canadiens-de-Montr\u00e9al #3409",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "27377377",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$489,000.00",
+        "address": "352 Av. Andr\u00e9-Chartrand",
+        "location": "Vaudreuil-Dorion",
+        "centrish_number": "11186561",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$1,699,000.00",
+        "address": "256 Rue Sherbrooke",
+        "location": "Beaconsfield",
+        "centrish_number": "15456499",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$625,000.00",
+        "address": "170 Rue Evelyn",
+        "location": "Greenfield Park (Longueuil)",
+        "centrish_number": "28046389",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$339,000.00",
+        "address": "340 Rue Sylvio-Mantha #202",
+        "location": "Vaudreuil-Dorion",
+        "centrish_number": "28224532",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$699,000.00",
+        "address": "845 Rue Abbott",
+        "location": "Saint-Laurent (Montr\u00e9al)",
+        "centrish_number": "25352633",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$749,000.00",
+        "address": "29 Rue du Bois\u00e9",
+        "location": "Kirkland",
+        "centrish_number": "10807855",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$875,000.00",
+        "address": "2050 Rue des Sarcelles #604",
+        "location": "Vaudreuil-Dorion",
+        "centrish_number": "14015488",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$619,000.00",
+        "address": "9361 Av. C\u00e9r\u00e8s",
+        "location": "Pierrefonds-Roxboro (Montr\u00e9al)",
+        "centrish_number": "14195378",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$789,000.00",
+        "address": "93 Rue St-Andrew\u2019s",
+        "location": "Baie-d'Urf\u00e9",
+        "centrish_number": "14527856",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$439,000.00",
+        "address": "405 5e Avenue",
+        "location": "Saint-Jean-sur-Richelieu",
+        "centrish_number": "13885810",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$529,000.00",
+        "address": "6635 Ch. Mackle #1202",
+        "location": "C\u00f4te-Saint-Luc",
+        "centrish_number": "9735877",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$399,000.00",
+        "address": "2164 Rue Jacques-Hertel",
+        "location": "Le Sud-Ouest (Montr\u00e9al)",
+        "centrish_number": "26896356",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$250,999.00",
+        "address": "795 1re Avenue #415",
+        "location": "Lachine (Montr\u00e9al)",
+        "centrish_number": "27189487",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$1,364,000.00",
+        "address": "2301 Rue St-Patrick #B104",
+        "location": "Le Sud-Ouest (Montr\u00e9al)",
+        "centrish_number": "20905884",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$498,000.00",
+        "address": "6574 24e Avenue",
+        "location": "Rosemont/La Petite-Patrie (Montr\u00e9al)",
+        "centrish_number": "15667281",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$499,000.00",
+        "address": "73 Rue Rabelais",
+        "location": "Saint-Constant",
+        "centrish_number": "20896331",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$280,000.00",
+        "address": "3577 Av. Atwater #521",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "16991137",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$650,000.00",
+        "address": "1795 Rue Tourigny",
+        "location": "Brossard",
+        "centrish_number": "16859911",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$619,000.00",
+        "address": "2232 Rue Rachel",
+        "location": "Vimont (Laval)",
+        "centrish_number": "9575429",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$349,000.00",
+        "address": "9975 Rue de Lille",
+        "location": "Ahuntsic-Cartierville (Montr\u00e9al)",
+        "centrish_number": "14257955",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$795,000.00",
+        "address": "8 Rue Pandora",
+        "location": "Gore",
+        "centrish_number": "14419608",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$899,000.00",
+        "address": "4428 Av. Girouard",
+        "location": "C\u00f4te-des-Neiges/Notre-Dame-de-Gr\u00e2ce (Montr\u00e9al)",
+        "centrish_number": "9954409",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$349,000.00",
+        "address": "801 Rue de la Commune E. #101",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "13881131",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$449,000.00",
+        "address": "139 Rue Larente",
+        "location": "LaSalle (Montr\u00e9al)",
+        "centrish_number": "18438215",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$825,000.00",
+        "address": "4015 Rue St-Dominique",
+        "location": "Le Plateau-Mont-Royal (Montr\u00e9al)",
+        "centrish_number": "13843619",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$248,800.00",
+        "address": "8 Ch. Dor\u00e9",
+        "location": "La Minerve",
+        "centrish_number": "24267337",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$349,900.00",
+        "address": "25 Prom. des \u00celes #902",
+        "location": "Chomedey (Laval)",
+        "centrish_number": "12544867",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$589,900.00",
+        "address": "7765 Boul. St-Martin O. #208",
+        "location": "Sainte-Doroth\u00e9e (Laval)",
+        "centrish_number": "13885061",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$749,900.00",
+        "address": "612 Rue de la Sucrerie",
+        "location": "Le Sud-Ouest (Montr\u00e9al)",
+        "centrish_number": "21042203",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$1,595,000.00",
+        "address": "3728 Ch. de Val-Royal",
+        "location": "Val-Morin",
+        "centrish_number": "9675248",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$319,000.00",
+        "address": "1224 Boul. Ste-Foy",
+        "location": "Le Vieux-Longueuil (Longueuil)",
+        "centrish_number": "21124006",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$490,000.00",
+        "address": "1900 Rue Jane-Jacobs #524",
+        "location": "Saint-Laurent (Montr\u00e9al)",
+        "centrish_number": "28247651",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$439,000.00",
+        "address": "680 Ch. du Bord-du-Lac-Lakeshore #405",
+        "location": "Dorval",
+        "centrish_number": "12227195",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$599,000.00",
+        "address": "5192 Rue Radisson",
+        "location": "Vaudreuil-Dorion",
+        "centrish_number": "12765794",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$1,145,000.00",
+        "address": "3901 Rue Rivard",
+        "location": "Le Plateau-Mont-Royal (Montr\u00e9al)",
+        "centrish_number": "22101048",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$339,000.00",
+        "address": "2152 Rue Le Caron #01",
+        "location": "Le Sud-Ouest (Montr\u00e9al)",
+        "centrish_number": "11407063",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$569,000.00",
+        "address": "2390 Rue De Biencourt #101",
+        "location": "Le Sud-Ouest (Montr\u00e9al)",
+        "centrish_number": "27154972",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$799,000.00",
+        "address": "2194 Rue Cardinal",
+        "location": "Le Sud-Ouest (Montr\u00e9al)",
+        "centrish_number": "17080930",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$399,000.00",
+        "address": "219 Rue Maria #306",
+        "location": "Le Sud-Ouest (Montr\u00e9al)",
+        "centrish_number": "25610762",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$749,000.00",
+        "address": "96 Rue St-Norbert",
+        "location": "Ville-Marie (Montr\u00e9al)",
+        "centrish_number": "20168193",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$350,000.00",
+        "address": "11650 Boul. de la Rivi\u00e8re-des-Prairies",
+        "location": "Rivi\u00e8re-des-Prairies/Pointe-aux-Trembles (Montr\u00e9al)",
+        "centrish_number": "13546529",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$999,999.00",
+        "address": "8891 Rue St-Hubert",
+        "location": "Ahuntsic-Cartierville (Montr\u00e9al)",
+        "centrish_number": "10127830",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$140,000.00",
+        "address": "118 Crois. de la Baie",
+        "location": "Lantier",
+        "centrish_number": "28546223",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$250,000.00 + tax",
+        "address": "10634 Av. L\u2019Archev\u00eaque",
+        "location": "Montr\u00e9al-Nord (Montr\u00e9al)",
+        "centrish_number": "14520407",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$149,000.00",
+        "address": "231 Rue Riverside #704",
+        "location": "Saint-Lambert",
+        "centrish_number": "24058925",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$315,000.00",
+        "address": "1340 Rue Hyman #201",
+        "location": "Pierrefonds-Roxboro (Montr\u00e9al)",
+        "centrish_number": "11771332",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$420,000.00",
+        "address": "2340 Ch. du Mont-Sauvage",
+        "location": "Sainte-Ad\u00e8le",
+        "centrish_number": "19397195",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$419,000.00",
+        "address": "5685 Rue De Lanaudi\u00e8re #4",
+        "location": "Rosemont/La Petite-Patrie (Montr\u00e9al)",
+        "centrish_number": "28442602",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$180,000.00",
+        "address": "1390 Rue Palerme #206",
+        "location": "Brossard",
+        "centrish_number": "18116447",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$620,000.00",
+        "address": "1454 Rue Maurice-Cullen",
+        "location": "Blainville",
+        "centrish_number": "9092586",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$370,000.00",
+        "address": "87 43e Avenue",
+        "location": "Saint-Eustache",
+        "centrish_number": "21107106",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$375,000.00",
+        "address": "89 58e Avenue",
+        "location": "Saint-Eustache",
+        "centrish_number": "19107505",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$399,000.00",
+        "address": "4484 Boul. LaSalle #8",
+        "location": "Verdun/\u00cele-des-Soeurs (Montr\u00e9al)",
+        "centrish_number": "22264036",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$1,375,000.00",
+        "address": "100 Rue Northview",
+        "location": "Dollard-Des Ormeaux",
+        "centrish_number": "11985362",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$169,000.00",
+        "address": "1400 Boul. Rome #6",
+        "location": "Brossard",
+        "centrish_number": "16601546",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$179,000.00",
+        "address": "1400 Boul. Rome #16",
+        "location": "Brossard",
+        "centrish_number": "11154197",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$799,000.00",
+        "address": "7355 Ch. Kildare",
+        "location": "C\u00f4te-Saint-Luc",
+        "centrish_number": "12116152",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$645,000.00",
+        "address": "927 Rue No\u00ebl",
+        "location": "Sainte-Doroth\u00e9e (Laval)",
+        "centrish_number": "27428309",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$505,000.00",
+        "address": "100 Rue Andr\u00e9-Pr\u00e9vost #713",
+        "location": "Verdun/\u00cele-des-Soeurs (Montr\u00e9al)",
+        "centrish_number": "14869257",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$210,000.00",
+        "address": "1390 Boul. Rome #9",
+        "location": "Brossard",
+        "centrish_number": "11714571",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$1,100,000.00",
+        "address": "4610 Av. Coolbrook",
+        "location": "C\u00f4te-des-Neiges/Notre-Dame-de-Gr\u00e2ce (Montr\u00e9al)",
+        "centrish_number": "21938317",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$649,000.00",
+        "address": "6533 14e Avenue",
+        "location": "Rosemont/La Petite-Patrie (Montr\u00e9al)",
+        "centrish_number": "19428428",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$475,000.00",
+        "address": "4293 Rue Jean-Talon O. #705",
+        "location": "C\u00f4te-des-Neiges/Notre-Dame-de-Gr\u00e2ce (Montr\u00e9al)",
+        "centrish_number": "19209620",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$230,000.00",
+        "address": "16645 Boul. Pierrefonds #102",
+        "location": "L'\u00cele-Bizard/Sainte-Genevi\u00e8ve (Montr\u00e9al)",
+        "centrish_number": "15480971",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$230,000.00",
+        "address": "16647 Boul. Pierrefonds #101",
+        "location": "L'\u00cele-Bizard/Sainte-Genevi\u00e8ve (Montr\u00e9al)",
+        "centrish_number": "13145126",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$274,900.00",
+        "address": "5 Rue du Belv\u00e9d\u00e8re O.",
+        "location": "Notre-Dame-de-l'\u00cele-Perrot",
+        "centrish_number": "10829759",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$770,000.00",
+        "address": "14364 Rue Lamer",
+        "location": "Pierrefonds-Roxboro (Montr\u00e9al)",
+        "centrish_number": "27344920",
+        "sold": true
+    },
+    {
+        "title": "Sale",
+        "price": "$399,000.00",
+        "address": "5835 Rue de Verdun #301",
+        "location": "Verdun/\u00cele-des-Soeurs (Montr\u00e9al)",
+        "centrish_number": "27334833",
+        "sold": true
+    }
+]
