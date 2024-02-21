@@ -6,10 +6,8 @@ import json
 def properties():
     properties_list = []
 
-    # Define the range of page numbers you want to scrape
     start_page = 1
-    end_page = 29  # Adjust the end_page value as per your requirement
-
+    end_page = 29
     for page_number in range(start_page, end_page + 1):
         url = f'https://www.londonogroup.com/property/search.php?id=&district=any&prop_type=any&broker=any&project=any&price_range=any&sales=1&rentals=1&subSearch=submit&page={page_number}&sort=recent'
         response = requests.get(url)
