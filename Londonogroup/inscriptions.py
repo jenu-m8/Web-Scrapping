@@ -1,6 +1,11 @@
+import datetime
+from datetime import datetime
+
 import requests
 from bs4 import BeautifulSoup
 import json
+
+start_time = datetime.now()
 
 
 def properties():
@@ -94,13 +99,14 @@ def properties():
                                 'condo_fees': condo_fees if condo_fees else "Condo fees not available",
                             }
 
-
                 properties_list.append(property_info)
 
     with open("properties-details.json", "w") as json_file:
         json.dump(properties_list, json_file, indent=4)
 
     print(f"Number of properties: {len(properties_list)}")
+    elapsed_time = datetime.now() - start_time
+    print(elapsed_time)
 
 
 if __name__ == '__main__':
